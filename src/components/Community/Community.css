@@ -1,0 +1,283 @@
+.community{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.community-t1{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #FFF;
+}
+.community-t1 span {
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    color: #1B94F6;
+}
+.community-t2{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #FFF;
+}
+.community-t3{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #FFF;
+}
+/*---------------------Card section*--------------+*/
+
+.community-cards{
+    height: 200px;
+    gap: 40px;
+    opacity: 0px;
+    width:1280px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    display: flex;
+
+}
+.community-card1{
+    height: 200px;
+    padding: 35px 31.5px 36px 31.5px;
+    gap: 0px;
+    border-radius: 30px 0px 0px 0px;
+    opacity: 0px;
+    width: 400px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background: #121212;
+    border-radius: 30px;
+
+}
+.community-card-t1{
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #FFF;
+}
+.community-card-t1 span{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: rgba(255, 255, 255, 0.30);
+}
+
+.community-card-discription{
+    width: 337px;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: rgba(255, 255, 255, 0.50);
+}
+.community-card-btn{
+    padding: 10px var(--Number, 20px);
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    background: #000;
+    box-shadow: 0px 0px 4px 0px rgba(255, 255, 255, 0.50) inset;
+    border-radius: 10px;
+    height:39px;
+    padding: 10px 20px 10px 20px;
+    gap: 10px;
+    border-radius: 10px;
+    opacity: 0px;
+    /* width:116px; */
+    border: none;
+    color: white;
+}
+.community-icon{
+    width: 18px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0px;
+    color: white;
+}
+/*-----------------------Subscribe--------------*/
+.subscribe{
+    width: 1171px;
+    height: 400px;
+    padding: 80px 240px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 250px;
+    border: 1px solid #FFF;
+    background: #030303;
+    display: flex;
+    margin: 150px;
+}
+.signup-content{
+    flex-direction: column;
+    align-items: center;
+    gap: 17px;
+    width:691px;
+    height:204px;
+    gap: 17px;
+    opacity: 0px;
+    display: flex;
+}
+.signup-content-t1{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #FFF;
+    width: 485px;
+    gap: 0px;
+    opacity: 0px;
+    height: 27px;
+
+}
+.signup-content-t2{
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #FFF;
+}
+.signup-email{
+    width: 448px;
+    padding: 15px 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    display: flex;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    background: #000;
+    border-radius: 10px;
+    color: white;
+}
+
+.signupbtn{
+    color: white;
+    height: 54px;
+    padding: 15px 45px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.50);
+    background: #000;
+    display: flex;
+}
+
+.signupinput{
+    display: flex;
+    gap: 17px;
+}
+/*----------------------Privacy Policy----------------------------*/
+.privacy-policy{
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    color:#9AA0A6;
+    width: 770px;
+    height: 48px;
+    text-align: center;
+}
+.privacy-policy span{
+    color: #414ECA;
+}
+.privacy-policy a{
+    color: white;
+}
+/*--------------------------Explore--------------------------------------*/
+
+.explore{
+    justify-content: center;
+    align-items: center;
+    gap: 84px;
+    display: inline-flex;
+    width: 1440px;
+    top: 7614px;
+    padding: 0px 140px 0px 140px;
+    gap: 84px;
+    opacity: 0px;
+    height: 121px;
+
+}
+.explore-title{
+    height: 66px;
+    gap: 0px;
+    opacity: 0px;
+    width: 336px;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32.74px;
+    font-family: Nunito;
+    text-align: left;
+}
+.product{
+    height:121px;
+    gap: 40px;
+    opacity: 0px;
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 40px;
+    width: 740px;
+}
+.product1{
+    height: 50px;
+    padding: 13px 13px 12px 13px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    width: 350px;
+    height: 50px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 128px;
+    display: flex;
+    background: #000;
+    box-shadow: 0px 0px 4px 0px rgba(217, 217, 217, 0.25) inset;
+    border-radius: 10px;
+}
+.product-text{
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: rgba(255, 255, 255, 0.50);
+    height: 25px;
+    gap: 0px;
+    opacity: 0px;
+    width: 141px;
+    display: flex;  
+    margin: 5px;
+}

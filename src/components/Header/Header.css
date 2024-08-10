@@ -1,0 +1,104 @@
+*{
+  font-family: nunito;
+}
+.wave {
+    display: inline-flex;
+    width: 100%;
+    height: 100%;
+    padding: 44.9px 6.8px 51.65px 7.85px;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .wave-container {
+    width: 643.35px;
+    height: 108.45px;
+    position: relative;
+  }
+  
+  .wave-container > div {
+    position: absolute;
+  }
+  
+  .wave-container > div:nth-child(1) {
+    width: 72.15px;
+    height: 75.90px;
+    left: 571.20px;
+    top: 32.55px;
+    background: linear-gradient(267deg, #8A1BF6 0%, #F6997F 14%, white 100%);
+  }
+  
+  .wave-container > div:nth-child(2) {
+    width: 54.23px;
+    height: 107.32px;
+    left: 515.40px;
+    top: 0.83px;
+    background: linear-gradient(267deg, #8A1BF6 0%, #F6997F 14%, white 100%);
+  }
+  
+  .wave-container > div:nth-child(3) {
+    width: 65.55px;
+    height: 75.60px;
+    left: 439.17px;
+    top: 32.55px;
+    background: linear-gradient(267deg, #8A1BF6 0%, #F6997F 14%, white 100%);
+  }
+  
+  .wave-container > div:nth-child(4) {
+    width: 15.60px;
+    height: 107.85px;
+    left: 400.69px;
+    top: 0.30px;
+    background: linear-gradient(267deg, #8A1BF6 0%, #F6997F 14%, white 100%);
+  }
+  
+  .wave-container > div:nth-child(5) {
+    width: 68.40px;
+    height: 75.90px;
+    left: 314.12px;
+    top: 32.55px;
+    background: linear-gradient(267deg, #8A1BF6 0%, #F6997F 14%, white 100%);
+  }
+  
+  .wave-container > div:nth-child(6) {
+    width: 44.60px;
+    height: 75.76px;
+    left: 263.54px;
+    top: 32.39px;
+    background: linear-gradient(267deg, #8A1BF6 0%, #F6997F 14%, white 100%);
+  }
+  
+  .wave-container > div:nth-child(7) {
+    width: 63px;
+    height: 75.90px;
+    left: 179.67px;
+    top: 32.55px;
+  }
+  
+  .wave-container > div:nth-child(8) {
+    width: 65.55px;
+    height: 107.85px;
+  }
+  /*---------------For aspirants-------------*/
+
+  .text-right {
+    
+    text-align: right;
+    vertical-align: sub;
+  }
+  .for{
+    color: 'rgba(255, 255, 255, 0.50)';
+    font-size: 20px;
+     /* fontFamily: 'Nunito'; */
+     font-weight: 700;
+     word-wrap: break-word;
+     color:#FFFFFF80;
+  }
+  .Aspirant{
+     color: white;
+    font-size: 48px;
+    font-weight: 700;
+    word-wrap: break-word;  
+  }
+  

@@ -1,0 +1,22 @@
+.companies{
+    display: flex;
+    flex-direction:row;
+    height: 39px;
+    align-items: center;
+    width: 151px;
+}
+.company-name{
+    color: #f0e5e5;
+    font-size: 20px;
+    font-weight: 800;
+    /* line-height: 40px; */
+    letter-spacing: 0.1em;
+    text-align: center;
+    font-family: Montserrat;
+    
+}
+.Recruiting-companies{
+    margin: 10px;
+    display: flex;
+    gap: 10px;
+}

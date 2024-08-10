@@ -1,0 +1,63 @@
+.tech-container{
+    padding: 20px 19px 20px 20px;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: row;
+    gap: 20px;
+    display: flex;
+    background: #121212;
+    border-radius: 30px;
+    width: 400px;
+    height: 200px;
+}
+.domainlogo{
+    width: 160px;
+    height: 160px;
+    padding: 42px 49.58px 43px 50px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background: #2B2B2B;
+    display: flex;
+}
+.domain-icon{
+    height: 75px;
+    flex-shrink: 0;
+    background: linear-gradient(225deg, #1B94F6 0%, #1B94F6 28.28%, #414ECA 34.59%, #1B94F6 64.73%, #414ECA 70.57%, #1B94F6 100%);
+    width: 75px;
+}
+.domain-content{
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    display: flex;
+}
+.title{
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #FFF;
+}
+.discription{
+    width: 181px;
+    font-family: Nunito;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    color: rgba(255, 255, 255, 0.50);
+}
+.domain{
+    color: #1B94F6;
+    height: 90px;
+    flex-shrink: 0;
+    width: 90px;
+}
+.icon{
+    color: #1B94F6;
+    height: 24px;
+    width: 24px;
+
+}

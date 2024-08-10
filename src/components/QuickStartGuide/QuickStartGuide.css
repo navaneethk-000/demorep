@@ -1,0 +1,54 @@
+.quick-start-guide{
+    padding: 75px 70px 82px 70px;
+    flex-direction: column;
+    gap: 55px;
+    display: inline-flex;
+    background: linear-gradient(249deg, #DDC8FF 0%, #C99DF5 36.52%, #7857FB 68.61%, #6005B6 100%);
+    border-radius: 50px;
+    margin-left: 120px;
+    margin-bottom: 50px;
+    margin-top: 65px;
+    /* width: 1280px;
+    height: 800px;
+    margin-left: 120px; */
+}
+.CapabilitiesCard{
+    display: inline-flex;
+    flex-direction: c;
+    gap: 30px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+.btn-main{
+    color: white;
+    width: 413px;
+    height: 47px;
+    border:none;
+    padding: 14px 30px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 0px rgba(255, 255, 255, 0.50) inset;
+    background: #9570F8;
+}
+.btn-icon{
+    height: 11.25px;
+    flex-shrink: 0;
+    width: 11.25px;
+    fill: #FFF;
+    top: 2px;
+    left: 338px;
+    gap: 0px;
+    opacity: 0px;
+    size: 50px;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}

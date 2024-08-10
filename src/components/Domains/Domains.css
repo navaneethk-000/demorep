@@ -1,0 +1,47 @@
+.domain-container{
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+.domain-hedding{
+    flex-direction: column;
+    height: 100px;
+    width: 646px;
+    margin-bottom: 50px;
+}
+.title-main{
+    font-size: 34px;
+    font-weight: 700;
+    /* line-height: 46.38px; */
+    text-align: center;
+    color: #FFF;
+}
+
+.sub-headding{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    color: #FFF;
+}
+.core{
+    font-size: 34px;
+    font-weight: 700;
+    /* line-height: 46.38px; */
+    text-align: center;
+    color: #1B94F6;
+    font-weight: 700;
+}
+.domain-types{
+    display: flex;
+    flex-wrap: wrap;
+    gap:50px 40px;
+    width:1280px;
+    height:700px;
+
+}

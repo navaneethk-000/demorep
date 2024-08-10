@@ -1,0 +1,25 @@
+<svg width="236" height="243" viewBox="0 0 236 243" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask group">
+<mask id="mask0_1459_5290" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="0" width="233" height="230">
+<g id="Group 48095494">
+<path id="Ellipse 4" d="M117.329 169.085C117.329 198.585 93.4145 222.5 63.9145 222.5C34.4145 222.5 10.5 198.585 10.5 169.085C10.5 139.585 34.4145 115.671 63.9145 115.671C93.4145 115.671 117.329 139.585 117.329 169.085Z" stroke="black" stroke-width="15"/>
+<path id="Ellipse 5" d="M227.685 147.78C227.685 177.28 203.771 201.194 174.271 201.194C144.771 201.194 120.856 177.28 120.856 147.78C120.856 118.28 144.771 94.3652 174.271 94.3652C203.771 94.3652 227.685 118.28 227.685 147.78Z" stroke="black" stroke-width="15"/>
+<path id="Ellipse 6" d="M152.84 60.9145C152.84 90.4145 128.925 114.329 99.4251 114.329C69.9251 114.329 46.0106 90.4145 46.0106 60.9145C46.0106 31.4145 69.9251 7.5 99.4251 7.5C128.925 7.5 152.84 31.4145 152.84 60.9145Z" stroke="black" stroke-width="15"/>
+<path id="Polygon 20" d="M99.3069 191.412L69.2951 79.4059L181.301 109.418L99.3069 191.412Z" stroke="black" stroke-width="15"/>
+</g>
+</mask>
+<g mask="url(#mask0_1459_5290)">
+<rect id="image 345" x="3" width="232" height="232" fill="url(#paint0_linear_1459_5290)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1459_5290" x1="235" y1="6.91414e-06" x2="2.99999" y2="232" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1B94F6"/>
+<stop offset="0.282826" stop-color="#1B94F6"/>
+<stop offset="0.345907" stop-color="#414ECA"/>
+<stop offset="0.647296" stop-color="#1B94F6"/>
+<stop offset="0.705704" stop-color="#414ECA"/>
+<stop offset="1" stop-color="#1B94F6"/>
+</linearGradient>
+</defs>
+</svg>

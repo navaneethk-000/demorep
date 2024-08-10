@@ -1,0 +1,99 @@
+.case-hedding{
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.case-title{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #FFF;
+    width: 549px;
+    height: 46px;
+}
+.case-subhedding{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #FFF;
+    width: 548px;
+    height: 50px;
+}
+.case-card{
+    align-items:center;
+    gap: 80px;
+    display: flex;
+    justify-content: center;
+}
+.case-main-container{
+    gap: 50px;
+    margin: 50px;
+    display: flex;
+    align-items: center; 
+    flex-direction: column;
+    gap: 10px;
+}
+.case-validation{
+    /* flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    height:132px;
+    gap: 10px;
+    opacity: 0px;
+    width:788px; */
+    opacity: 0px;
+    height:132px;
+    width:788px;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+
+}
+.validation-dis{
+    height: 75px;
+    gap: 0px;
+    opacity: 0px;
+    width: 788px;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    color: #FFF;
+
+}
+.case-arrow-icon{
+    color: white;
+}
+.Start-Trial-Free-Button{
+    border: none;
+    padding: 14px 30px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    background: #000;
+    box-shadow: 0px 0px 4px 0px rgba(255, 255, 255, 0.50) inset;
+    border-radius: 10px;
+    width: 245px;
+    height: 47px;
+}
+.case-btntxt{
+    padding: 0px;
+    color: white;
+    display: flex;
+}

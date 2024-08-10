@@ -1,0 +1,34 @@
+.capabilities{
+  /* position: absolute; */
+  justify-content: center;
+  margin-left: 255px;
+  padding-bottom: 50px ;
+  padding-top: 50px;
+}
+.header-text {
+    text-align: center;
+    color: white;
+    font-size: 38px;
+    font-family: Nunito, sans-serif;
+    font-weight: 700;
+    word-wrap: break-word;
+    line-height: 51.83px;
+
+  }
+.subheading-text{
+    color: rgba(255, 255, 255, 0.5); /* Using rgba for white with 50% opacity */
+    font-size: 18px;
+    font-family: Nunito, sans-serif; /* Fallback font */
+    font-weight: 700;
+    word-wrap: break-word;
+    text-align: center;
+}
+.card{
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 35px;
+  display: flex;
+  width: Hug (1,006px)px;
+  opacity: 0px;
+  height: Hug (761px)px;
+}

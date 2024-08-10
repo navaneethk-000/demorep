@@ -1,0 +1,44 @@
+*,
+*::after,
+*::before{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    line-height: normal;
+
+    background-color: black;
+}
+
+.wrapper{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+
+/*--------------Responsive Design--------------*/
+
+@media(max-width:952px){
+    *,
+*::after,
+*::before{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    line-height: normal;
+    background-color: rgb(90, 76, 76);
+}
+
+.wrapper{
+    max-width: 952px;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+}

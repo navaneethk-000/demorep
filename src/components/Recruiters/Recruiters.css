@@ -1,0 +1,87 @@
+.recruiter-main-div{
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+}
+.recruiters-title{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 4.5px;
+    color: rgba(255, 255, 255, 0.44);
+}
+.company-lists{
+    /* display: flex;
+    flex-wrap: wrap;
+    gap:50px 40px;
+    width:1139px;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(7, 200, 254); */
+    margin: 50px;
+    display: flex;
+    gap:50px 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+    width:1139px;
+    flex-direction: row;
+    gap: 10px;
+    
+}
+.company-name{
+    color: #f0e5e5;
+    font-size: 20px;
+    font-weight: 800;
+    /* line-height: 40px; */
+    letter-spacing: 0.1em;
+    text-align: center;
+    font-family: Montserrat;
+}
+.Recruiting-companies{
+    margin: 10px;
+    display: flex;
+    gap: 10px;
+}
+.recruiter-partner{
+    height: 20px;
+    gap: 12px;
+    opacity: 0px;
+    width: Hug (729.1px)px;
+    color: #FFFFFF70;
+    align-items: center;
+}
+.partner-btn{
+    border: none;
+    background: transparent;
+    color: white;
+    width: Hug (138.1px)px;
+    gap: 5px;
+    opacity: 0px;
+    height:20px;
+}
+.partner-arrowicon{
+    justify-content: center;
+}
+.freetrial-btn{
+    font-weight: 600;
+    padding: 14px 30px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    background: #000;
+    box-shadow: 0px 0px 4px 0px rgba(255, 255, 255, 0.50) inset;
+    border-radius: 10px;
+    border: none;
+    color: #FFFFFF;
+    margin: 30px;
+}
+.trialarrow{
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+}
